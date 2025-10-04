@@ -1,0 +1,13 @@
+# Runtime artifacts
+.server.pid
+logs/
+
+# Python
+.venv/
+__pycache__/
+
+# Node
+node_modules/
+
+# Environment files
+.env*
